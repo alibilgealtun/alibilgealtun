@@ -5,6 +5,7 @@ A passionate software developer.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alibilgealtun)](https://github.com/alibilgealtun/github-readme-stats)
 
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?@alibilgealtun" frameborder="0"></iframe>
 ### My wakatime stats 
 [![Bilge's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mimir)](https://github.com/alibilgealtun/github-readme-stats)
 
