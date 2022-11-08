@@ -11,8 +11,6 @@ A passionate software developer.
 
 
 
-<img style="height:30px; width:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-          
 
 
 
