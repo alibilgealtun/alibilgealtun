@@ -8,6 +8,16 @@ A passionate software developer.
 ### My wakatime stats 
 [![Bilge's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mimir)](https://github.com/alibilgealtun/github-readme-stats)
 
+
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+          
+
+
+
+
+
 <!--
 **alibilgealtun/alibilgealtun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,3 +32,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
