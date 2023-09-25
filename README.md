@@ -1,7 +1,7 @@
 ### Hi! 👋 I'm Bilge. 
 A passionate software developer. 
 
-- 🔭 I’m currently working on Artificial Intelligence.
+- 🔭 I’m currently working on Swift & Artificial Intelligence.
 
 
 
