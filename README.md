@@ -4,7 +4,7 @@ A passionate software developer.
 - 🔭 I’m currently working on Machine Learning & Data Science.
 
 <a target="_blank"><img align="left" height="400" width="400" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
-
+<a href ="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"></a>
 
 
 <!--
