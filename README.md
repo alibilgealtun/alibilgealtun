@@ -3,9 +3,6 @@ A passionate software developer.
 
 - 🔭 I’m currently working on Machine Learning & Data Science.
 
-<a target="_blank"><img align="left" height="400" width="400" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
-<a  target="_blank"><img align="left" height="100" width="100" alt="𝙶𝙸𝙵" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"></a>
-<a src="https://www.loomly.com/hs-fs/hubfs/Imported_Blog_Media/earth-Apr-03-2024-12-19-31-1897-AM.gif?width=540&height=540&name=earth-Apr-03-2024-12-19-31-1897-AM.gif">
 
 <!--
 **alibilgealtun/alibilgealtun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
