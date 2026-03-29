@@ -21,8 +21,7 @@
 <p></p>
 <p align="justify">
   
-I'm a passionate Computer Engineering student at Dokuz Eylul University with a keen interest in software development, data science, and artificial intelligence. As the Lead of Google Developer Student Clubs (GDSC) at my university, I thrive on fostering innovation and building a vibrant tech community.
-
+Software Engineer with full-stack and international research experience (DTU). Currently a Candidate Software Engineer at TEI, with past internships at Turkcell, DTU, and OBSS. Led a software development team in an NGO. Authored an IEEE conference paper on speech-to-text AI optimization with DTU researchers. Experienced with .NET, Spring Boot, React, Angular and Python.
 
 </p>
 
