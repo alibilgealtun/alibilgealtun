@@ -5,24 +5,14 @@
         <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.instagram.com/alibilgealtun/">
-        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      <a href="https://alibilgealtun.com/">
         <img  height='30px'  src="https://img.shields.io/badge/www.alibilgealtun.com-blue">
     </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
-
-
-</div>
 <p></p>
 <p align="justify">
-  
-Software Engineer with full-stack and international research experience (DTU). Currently a Candidate Software Engineer at TEI, with past internships at Turkcell, DTU, and OBSS. Led a software development team in an NGO. Authored an IEEE conference paper on speech-to-text AI optimization with DTU researchers. Experienced with .NET, Spring Boot, React, Angular and Python.
-
+  Software Engineer with full-stack and international research experience (DTU). Past roles include Turkcell, TEI, DTU, and OBSS. Led a software development team in an NGO. Authored an IEEE conference paper on speech-to-text AI optimization with DTU researchers. Experienced with .NET, Spring Boot, React, Angular, Java, and Python.
 </p>
 
 ## My favorite tools and technologies ⚙️
@@ -36,6 +26,10 @@ Software Engineer with full-stack and international research experience (DTU). C
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
       </a>
       <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+      <br>Java
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
@@ -58,17 +52,10 @@ Software Engineer with full-stack and international research experience (DTU). C
       <br>CSS
     </td>
         <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="postgres" />
       <br>PostgreSQL
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="dart" />
-      <br>Dart
-    </td>
-
   </tr>
- <tr>
- </tr>
 </table>
 
 ## Github stats 📊
@@ -89,13 +76,13 @@ Software Engineer with full-stack and international research experience (DTU). C
 
 </details>
 
-
 <details>
   <summary>Profile Views 👁️</summary>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=alibilgealtun&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
+</details>
 
-
+<br/>
 
 ## GitHub Profile Trophy 🏆
 
@@ -116,6 +103,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-
